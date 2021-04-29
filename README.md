@@ -12,6 +12,7 @@ las piezas azules serian por donde entrarian el cable de la corriente y el inter
 
 Aqui esta la parte de arriba de la lampara medio acabada con un diseño mio de dos iniciales solo faltan un par de cosas para acabarla pero demomento va asi
 
-![image](https://user-images.githubusercontent.com/78345826/116524735-011cd080-a8d8-11eb-9929-0c01ae0315b3.png)
+![image](https://user-images.githubusercontent.com/78345826/116524976-4e993d80-a8d8-11eb-93ac-c0ce14710e4a.png)
 
 He puesto una foto de mi gato abajo de mi inicial debajo de la otra inicial podre la mascota de esa persona
+
