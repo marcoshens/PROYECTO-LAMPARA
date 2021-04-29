@@ -8,5 +8,10 @@ Aqui estoy diseñando mi lampara de leds, ire subiendo los cambios de la lampara
 
 las piezas azules serian por donde entrarian el cable de la corriente y el interruptor para encender la lampara y apagarla
 
-![image](https://user-images.githubusercontent.com/78345826/116514839-db89ca00-a8cb-11eb-963c-febe55192483.png)
+![image](https://user-images.githubusercontent.com/78345826/116524794-10038300-a8d8-11eb-8991-b7d627c2fa2c.png)
+
 Aqui esta la parte de arriba de la lampara medio acabada con un diseño mio de dos iniciales solo faltan un par de cosas para acabarla pero demomento va asi
+
+![image](https://user-images.githubusercontent.com/78345826/116524735-011cd080-a8d8-11eb-9929-0c01ae0315b3.png)
+
+He puesto una foto de mi gato abajo de mi inicial debajo de la otra inicial podre la mascota de esa persona
