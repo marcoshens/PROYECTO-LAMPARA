@@ -19,3 +19,5 @@ He puesto una foto de mi gato abajo de mi inicial debajo de la otra inicial podr
 ![imagen](https://user-images.githubusercontent.com/78345826/116664077-40aaf180-a998-11eb-8f3c-d88fba525a26.png)
 
 Y asi acabaria la parte de arriba del proyecto lampara
+
+[caja](https://github.com/marcoshens/PROYECTO-LAMPARA/blob/main/caja%20lampara.svg)
