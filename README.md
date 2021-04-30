@@ -12,6 +12,10 @@ Me habia equivocado con las piezas azules asique he rectificado y las e puesto b
 
 ![](https://github.com/marcoshens/PROYECTO-LAMPARA/blob/main/caja%20lampara.svg)
 
+![](https://github.com/marcoshens/PROYECTO-LAMPARA/blob/main/caja%20lampara.svg)
+
+Y aqui e puesto el mini rectangulo ese para poder poder la parte de arriba de la lampara
+
 ![image](https://user-images.githubusercontent.com/78345826/116524794-10038300-a8d8-11eb-8991-b7d627c2fa2c.png)
 
 Aqui esta la parte de arriba de la lampara medio acabada con un diseño mio de dos iniciales solo faltan un par de cosas para acabarla pero demomento va asi.
@@ -24,7 +28,7 @@ He puesto una foto de mi gato abajo de mi inicial debajo de la otra inicial podr
 
 Y asi acabaria la parte de arriba del proyecto lampara
 
-[caja lampara](https://github.com/marcoshens/PROYECTO-LAMPARA/blob/main/dise%C3%B1o%20marcos%20lampara.svg)
+[caja lampara](https://github.com/marcoshens/PROYECTO-LAMPARA/blob/main/caja%20lampara.svg)
 
 Aqui ya esta puesto para hacerlo en corte laser para poder hacer la caja con los dos agujeros del cable y del interruptor.
 
