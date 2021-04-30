@@ -8,7 +8,7 @@ Aqui estoy diseñando mi lampara de leds, ire subiendo los cambios de la lampara
 
 Las piezas azules serian por donde entrarian el cable de la corriente y el interruptor para encender la lampara y apagarla.
 
-ME habia equivocado con las piezas azules asique he rectificado y las e puesto bien
+Me habia equivocado con las piezas azules asique he rectificado y las e puesto bien
 
 ![](https://github.com/marcoshens/PROYECTO-LAMPARA/blob/main/caja%20lampara.svg)
 
