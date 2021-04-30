@@ -20,6 +20,6 @@ He puesto una foto de mi gato abajo de mi inicial debajo de la otra inicial podr
 
 Y asi acabaria la parte de arriba del proyecto lampara
 
-[caja lampara](https://github.com/marcoshens/PROYECTO-LAMPARA/blob/main/caja%20lampara.svg)
+[caja lampara](https://github.com/marcoshens/PROYECTO-LAMPARA/blob/main/dise%C3%B1o%20marcos%20lampara.svg)
 
 [parte de arriba lampara](https://github.com/marcoshens/PROYECTO-LAMPARA/blob/main/dise%C3%B1o%20marcos%20lampara.svg)
