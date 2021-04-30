@@ -22,4 +22,8 @@ Y asi acabaria la parte de arriba del proyecto lampara
 
 [caja lampara](https://github.com/marcoshens/PROYECTO-LAMPARA/blob/main/dise%C3%B1o%20marcos%20lampara.svg)
 
+Aqui ya esta puesto para hacerlo en corte laser para poder hacer la caja con los dos agujeros del cable y del interruptor.
+
 [parte de arriba lampara](https://github.com/marcoshens/PROYECTO-LAMPARA/blob/main/dise%C3%B1o%20marcos%20lampara.svg)
+
+Ya esta acabada ya la parte de arriba de la lampara con fotos que significan bastante para mi, solo falta poner el montaje de los cables y soldarlos con la base y ya abre acabao
