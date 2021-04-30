@@ -16,3 +16,6 @@ Aqui esta la parte de arriba de la lampara medio acabada con un diseño mio de d
 
 He puesto una foto de mi gato abajo de mi inicial debajo de la otra inicial podre la mascota de esa persona.
 
+![imagen](https://user-images.githubusercontent.com/78345826/116663563-916e1a80-a997-11eb-8a7e-90d9c32dabf7.png)
+
+Y asi acabaria la parte de arriba del proyecto lampara
