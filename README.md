@@ -39,3 +39,5 @@ Aqui tuve un fallo al no guardarlo en pdf se modificaba solo y cambiaban los agu
 [parte de arriba lampara](https://github.com/marcoshens/PROYECTO-LAMPARA/blob/main/dise%C3%B1o%20marcos%20lampara.svg)
 
 Ya esta acabada ya la parte de arriba de la lampara con fotos que significan bastante para mi, solo falta poner el montaje de los cables y soldarlos con la base y ya abre acabao
+
+![imagen](https://user-images.githubusercontent.com/78345826/117279909-676a9b80-ae62-11eb-9648-df0b667012d1.png)
