@@ -40,4 +40,6 @@ Aqui tuve un fallo al no guardarlo en pdf se modificaba solo y cambiaban los agu
 
 Ya esta acabada ya la parte de arriba de la lampara con fotos que significan bastante para mi, solo falta poner el montaje de los cables y soldarlos con la base y ya abre acabao
 
+![imagen](https://user-images.githubusercontent.com/78345826/117280129-941eb300-ae62-11eb-82b7-b98b1f13f281.png)
+
 ![imagen](https://user-images.githubusercontent.com/78345826/117279909-676a9b80-ae62-11eb-9648-df0b667012d1.png)
