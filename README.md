@@ -44,5 +44,6 @@ Ya esta acabada ya la parte de arriba de la lampara con fotos que significan bas
 
 ![imagen](https://user-images.githubusercontent.com/78345826/117280268-b7e1f900-ae62-11eb-86f4-d474fe78a7f4.png)
 
+![imagen](https://user-images.githubusercontent.com/78345826/117280532-fc6d9480-ae62-11eb-88fd-126b758c9462.png)
 
 ![imagen](https://user-images.githubusercontent.com/78345826/117279909-676a9b80-ae62-11eb-9648-df0b667012d1.png)
